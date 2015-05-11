@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+
+textarea {
+    height: 250px;
+    width: 550px;
+}
+
+p {
+    font-size: 26px;
+}
